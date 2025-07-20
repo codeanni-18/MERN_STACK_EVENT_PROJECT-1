@@ -42,27 +42,27 @@ const Contact = () => {
         <div className="banner">
           <div className="item">
             <h4>Address</h4>
-            <p>Any where, Any City, 4521</p>
+            <p>KOLKATA, WEST BENGAL, 700056</p>
           </div>
           <div className="item">
             <h4>Call Us</h4>
-            <p>Call Us: +92-321-1111111</p>
+            <p>Call Us: +91-7493030665</p>
           </div>
           <div className="item">
             <h4>Mail Us</h4>
-            <p>zk@gmail.com</p>
+            <p>anni18raj@gmail.com</p>
           </div>
         </div>
         <div className="banner">
-          <div className="item">
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57929.23355645912!2d67.01519255!3d24.8441321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33e70a31f45a9%3A0x25e252450977ec12!2sSaddar%20Town%2C%20Karachi%2C%20Sindh!5e0!3m2!1sen!2s!4v1709099958323!5m2!1sen!2s"
-              style={{ border: 0, width: "100%", height: "450px" }}
-              allowFullScreen=""
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-            />
-          </div>
+  <div className="item">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.7092715305877!2d88.35560097507391!3d22.585247779470424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0277b4b0ed7e35%3A0xb426a2ccabc08f14!2sKolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1721463600000!5m2!1sen!2sin"
+      style={{ border: 0, width: "100%", height: "450px" }}
+      allowFullScreen=""
+      loading="lazy"
+      referrerPolicy="no-referrer-when-downgrade"
+    />
+  </div>
           <div className="item">
             <form onSubmit={handleSendMessage}>
               <h2>CONTACT</h2>

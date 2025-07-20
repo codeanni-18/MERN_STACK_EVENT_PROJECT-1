@@ -6,17 +6,7 @@ const About = () => {
       <h4>Events</h4>
       <h2>ABOUT</h2>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet facilis
-        voluptas provident animi corrupti dolor, ipsum deleniti perferendis
-        veniam neque labore enim odio ratione. Ad commodi rem corporis soluta
-        sed reprehenderit a quasi nihil, odit aperiam exercitationem? Suscipit
-        rerum quibusdam inventore atque veritatis accusantium excepturi,
-        molestias optio perferendis aliquam harum, amet dolore! Animi
-        consequuntur officiis modi eius cumque reiciendis harum ipsum
-        praesentium numquam fugit? Consequatur eveniet recusandae harum hic. Eum
-        illo praesentium optio accusantium, hic quibusdam delectus voluptatem
-        qui a officiis dolorum minima cum illum culpa doloremque quia quidem aut
-        sed laudantium nam repudiandae sequi similique! Esse natus at quas?
+        At Kings, we specialize in creating unforgettable events that reflect your vision, style, and purpose. Whether it’s a corporate conference, wedding, birthday celebration, or cultural gathering, our experienced team handles every detail with creativity and precision. From concept to execution, we manage venue selection, décor, logistics, entertainment, catering, and more—so you can relax and enjoy your event stress-free. We believe every event tells a story, and our mission is to bring yours to life with elegance, efficiency, and innovation. Let Kings make your next event truly extraordinary.
       </p>
     </section>
   );
